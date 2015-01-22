@@ -49,7 +49,7 @@ The HyperKitty archiver addresses most of the drawbacks of Pipermail.
 Copyright
 =========
 
-Copyright (C) 2012 by the Free Software Foundation, Inc.
+Copyright (C) 2015 by the Free Software Foundation, Inc.
 
 HyperKitty is free software: you can redistribute it and/or
 modify it under the terms of the GNU General Public License as
